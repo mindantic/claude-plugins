@@ -1,0 +1,26 @@
+{
+  "name": "mindantic",
+  "description": "Claude Code plugins by Mindantic — content engines, developer tools, and automation",
+  "owner": {
+    "name": "Shahriar P. Shuvo",
+    "email": "mindantic@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "postical",
+      "description": "Content engine for creating, optimizing, and distributing blog content at scale. SEO-driven pipeline from brand profiling through writing to social media posting.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shahriar P. Shuvo",
+        "email": "mindantic@gmail.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mindantic/postical.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/mindantic/postical",
+      "tags": ["content-engine", "seo", "blog-writing", "content-marketing", "affiliate", "social-media"]
+    }
+  ]
+}
