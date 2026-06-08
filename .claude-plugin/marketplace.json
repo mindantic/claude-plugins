@@ -21,6 +21,22 @@
       },
       "homepage": "https://github.com/mindantic/postical",
       "tags": ["content-engine", "seo", "blog-writing", "content-marketing", "affiliate", "social-media"]
+    },
+    {
+      "name": "hormozi",
+      "description": "An interactive Alex Hormozi coach for founders. Diagnoses your binding constraint (market, offer, leads, or money model) and walks you through fixing it — Socratic, blunt, math-obsessed. Distilled from $100M Offers, $100M Leads, and $100M Money Models into 16 task-specific skills.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shahriar P. Shuvo",
+        "email": "mindantic@gmail.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mindantic/hormozi.git",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/mindantic/hormozi",
+      "tags": ["alex-hormozi", "offers", "lead-generation", "money-model", "pricing", "sales", "business-coach"]
     }
   ]
 }
